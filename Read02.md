@@ -4,7 +4,7 @@
  Cloning a repository 
  As mentioned above, to clone a repository, Git will automatically assign the name "origin" to the server you cloned from and the name "main" to its local branch.
 
- **Example of using git**
+ **Examples of using git**
 
  * Seeing the Remotes: git remote
  * Adding Remotes: git remote
