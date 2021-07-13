@@ -1,4 +1,4 @@
-##Remote repository 
+# Remote repository 
 
  To collaborate on a Git project, you must interact with a remote repository, online, or web version of the project. You can use multiple repositories and you can have read/write or read-only permissions. Teams can use remote repositories to submit information and extract data from it. 
  Cloning a repository 
@@ -6,9 +6,9 @@
 
  **Example of using git**
 
- *Seeing the Remotes: git remote
- *Adding Remotes:git remote
- *Pushing:git push origin main
- *Renaming:git remote rename
- *Removing:git remote rm"name"
- *Creating a New Branch:git branch
+ * Seeing the Remotes: git remote
+ * Adding Remotes:git remote
+ * Pushing:git push origin main
+ * Renaming:git remote rename
+ * Removing:git remote rm"name"
+ * Creating a New Branch:git branch
