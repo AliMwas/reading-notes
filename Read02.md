@@ -7,8 +7,8 @@
  **Example of using git**
 
  * Seeing the Remotes: git remote
- * Adding Remotes:git remote
- * Pushing:git push origin main
- * Renaming:git remote rename
- * Removing:git remote rm"name"
- * Creating a New Branch:git branch
+ * Adding Remotes: git remote
+ * Pushing: git push origin main
+ * Renaming: git remote rename
+ * Removing: git remote rm"name"
+ * Creating a New Branch: git branch
