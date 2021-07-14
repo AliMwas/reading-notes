@@ -8,3 +8,4 @@ Hello my name is Ali Mwas I am 23 years old and I studying software engineering 
 | Growth mindset      | [Growthmindset](https://alimwas.github.io/reading-notes/Growthmindset) |
 | Read01   | [Read01](Read01)        |
 | Read02   | [Read02](Read02)        |
+| Read03   | [Read03](Read03)        |
