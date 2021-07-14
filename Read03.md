@@ -3,8 +3,6 @@
 
 Wireframing is a practice used by UX designers to allow them to define and plan the information hierarchy of a website, application, or product design. This process focuses on how the designer or client wants users to handle the information on the website, based on user research that the user experience design team has completed.
 
-![](wireframe-example.png)
-
 
 
 **HTML - Hypertext Markup Language**
