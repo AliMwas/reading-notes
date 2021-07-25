@@ -10,3 +10,5 @@ Hello my name is Ali Mwas I am 23 years old and I studying software engineering 
 | Read02   | [Read02](Read02)        |
 | Read03   | [Read03](Read03)        |
 | Read04   | [Read04](Read04)        |
+| Read05   | [Read05](Read05)        |
+| Read06   | [Read06](Read06)        |
