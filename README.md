@@ -2,6 +2,10 @@
 Hello my name is Ali Mwas I am 23 years old and I studying software engineering at LTUC ASAC and I have a big passion to take Code Fellows courses. 
 [My gethub](https://github.com/AliMwas)
 
+**This website has tables of content to show information about HTML, CSS, javascript, and other information in an organized way.**
+
+
+**Code 102 Reading Notes table of content**
 
 | content     |     links   |
 | ----------- | ----------- |
@@ -14,3 +18,10 @@ Hello my name is Ali Mwas I am 23 years old and I studying software engineering 
 | Read05   | [Read05](Read05)        |
 | Read06   | [Read06](Read06)        |
 | Read07   | [Read07](Read07)        |
+
+**Code 201 Reading Notes table of content**
+
+| content      |     links             |
+| -----------  | -----------           |
+|    class-01  |  [class-01](class-01) |
+
