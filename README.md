@@ -30,3 +30,4 @@ Hello my name is Ali Mwas I am 23 years old and I studying software engineering 
 |    class-04  |  [class-04](class-04) |
 |    class-05  |  [class-05](class-05) |
 |    class-06  |  [class-06](class-06) |
+|    class-07  |  [class-07](class-07) |
